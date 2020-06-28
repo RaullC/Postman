@@ -1,16 +1,16 @@
 # Postman Test Samples
 
-##Delete Service Test
+## Delete Service Test
 ![Delete Test](Postman1.png)
 
-##Delete Service Test
+## GET Openweather Service Test
 ![Delete Test](Postman2.png)
 
-##Delete Service Test
+## Get Geolocation Service Test
 ![Delete Test](Postman3.png)
 
-##Delete Service Test
+## Get Openweather Service Test
 ![Delete Test](Postman4.png)
 
-##Delete Service Test
+## Get Openweather Service Test
 ![Delete Test](Postman5.png)
